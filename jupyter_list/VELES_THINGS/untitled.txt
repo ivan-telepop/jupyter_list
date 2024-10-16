@@ -1,0 +1,6 @@
+1 Typically routes for JWT OAuth - clarified !
+
+
+2 Get aquainted with the flow that depends to work whole flow.
+
+
