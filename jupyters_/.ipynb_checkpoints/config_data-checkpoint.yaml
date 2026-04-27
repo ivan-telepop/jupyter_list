@@ -1,0 +1,20 @@
+device params:
+  device name: Operand X 1
+  network:
+    dns:
+    - 192.168.0.1
+    - 8.8.8.8
+    - 9.9.9.9
+    host_name: My Lovely device
+    ip_adress: 192.168.0.66
+    mask: 255.255.255.0
+    meter-one:
+      initial_values: '0.567'
+      tariffs:
+      - day
+      - night
+      - peak
+      type: hot_water
+    remote_api_key: token-bla-bla-bla
+    remote_server: 29.82.11.77
+  owner: Alyosha Popovich
